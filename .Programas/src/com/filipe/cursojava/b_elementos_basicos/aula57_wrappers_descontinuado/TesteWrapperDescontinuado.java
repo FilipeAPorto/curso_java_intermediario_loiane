@@ -1,4 +1,4 @@
-package com.filipe.cursojava.b_elementos_basicos.aula57_wrappers;
+package com.filipe.cursojava.b_elementos_basicos.aula57_wrappers_descontinuado;
 
 public class TesteWrapperDescontinuado {
     public static void main(String[] args) {
