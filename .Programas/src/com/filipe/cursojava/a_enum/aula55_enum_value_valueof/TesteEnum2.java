@@ -1,6 +1,6 @@
-package com.filipe.cursojava.aula55_enum_value_valueof;
+package com.filipe.cursojava.a_enum.aula55_enum_value_valueof;
 
-import com.filipe.cursojava.aula53_enum.DiaSemana;
+import com.filipe.cursojava.a_enum.aula53_enum.DiaSemana;
 
 public class TesteEnum2 {
     public static void main(String[] args) {

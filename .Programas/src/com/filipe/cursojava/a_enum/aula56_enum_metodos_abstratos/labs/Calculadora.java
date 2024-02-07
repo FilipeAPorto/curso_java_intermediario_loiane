@@ -1,4 +1,4 @@
-package com.filipe.cursojava.aula56_enum_metodos_abstratos.labs;
+package com.filipe.cursojava.a_enum.aula56_enum_metodos_abstratos.labs;
 
 public class Calculadora {
 

@@ -1,4 +1,4 @@
-package com.filipe.cursojava.aula53_enum;
+package com.filipe.cursojava.a_enum.aula53_enum;
 
 public enum DiaSemana { // CAIXA ALTA SEMPRE , SEGUE O MSM CONCEITO DE CONSTANTES
 
