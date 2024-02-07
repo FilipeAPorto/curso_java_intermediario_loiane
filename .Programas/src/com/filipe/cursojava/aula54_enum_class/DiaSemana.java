@@ -1,4 +1,4 @@
-package com.filipe.cursojava.aula54;
+package com.filipe.cursojava.aula54_enum_class;
 
 public enum DiaSemana {
 
